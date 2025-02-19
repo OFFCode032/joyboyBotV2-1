@@ -2,14 +2,13 @@ class script(object):
     START_TXT = """<b>ʜᴇʟʟᴏ {}✨
 ◈ I Aᴍ A Pᴏᴡᴇʀғᴜʟ 4GB Fɪʟᴇ Rᴇɴᴀᴍᴇʀ Bᴏᴛ.
 ◈ I Cᴀɴ Rᴇɴᴀᴍᴇ Fɪʟᴇs, Cʜᴀɴɢᴇ Tʜᴜᴍʙɴᴀɪʟs, Cᴏɴᴠᴇʀᴛ Bᴇᴛᴡᴇᴇɴ Vɪᴅᴇᴏ Aɴᴅ Fɪʟᴇ, Aɴᴅ Sᴜᴘᴘᴏʀᴛ Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟs Aɴᴅ Cᴀᴘᴛɪᴏɴs.\n
-• Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ : @missqueenbotx
+• Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ : <a href=https://t.me/+-66Rn1OysMYyYTI1>369 Bots✨</a>
 </b>"""
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├◈ ᴍy ɴᴀᴍᴇ : Rᴇɴᴀᴍᴇʀ 4GB
 ├◈ Owner : <a href=https://t.me/mrx369official_support_bot>Mrx369official</a>
-├◈ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/sonali_sahaibot>Sᴏɴᴀʟɪ</a> 
-├◈ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ: <a href=https://t.me/missqueenbotx>𝙈𝙞𝙨𝙨𝙌𝙪𝙚𝙚𝙣𝘽𝙤𝙩 𝙭</a>   
+├◈ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/sonali_sahaibot>Sᴏɴᴀʟɪ</a>  
 ├◈ Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
 ├◈ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pʏᴛʜᴏɴ 𝟹</a>
 ├◈ Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
@@ -120,4 +119,4 @@ EX- <code>/set_caption {filename}
 /delete_caption - Remove your custom caption from my database."""
     
     SOURCE_TXT = """Source Code Is Private
-if You Need Repo Then DM me"""
+if You Need Repo Then DM me @sonali_sahaibot"""
