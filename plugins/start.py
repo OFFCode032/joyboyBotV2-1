@@ -150,7 +150,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=script.SILVER_TXT,
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup([[
-                InlineKeyboardButton("𝖯𝖺𝗒 𝖳𝗈 𝖠𝖽𝗆𝗂𝗇", url = "https://t.me/MrX369Official")
+                InlineKeyboardButton("𝖯𝖺𝗒 𝖳𝗈 𝖠𝖽𝗆𝗂𝗇", url = "https://t.me/mrx369official_support_bot")
             ],[
                 InlineKeyboardButton("ʙᴀᴄᴋ", callback_data = "premium")
 	    ]])            
@@ -161,7 +161,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=script.GOLDEN_TXT,
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup([[
-                InlineKeyboardButton("𝖯𝖺𝗒 𝖳𝗈 𝖠𝖽𝗆𝗂𝗇", url = "https://t.me/MrX369Official")
+                InlineKeyboardButton("𝖯𝖺𝗒 𝖳𝗈 𝖠𝖽𝗆𝗂𝗇", url = "https://t.me/mrx369official_support_bot")
             ],[
                 InlineKeyboardButton("ʙᴀᴄᴋ", callback_data = "premium")
 	    ]])            
@@ -172,7 +172,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=script.DIAMOND_TXT,
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup([[
-                InlineKeyboardButton("𝖯𝖺𝗒 𝖳𝗈 𝖠𝖽𝗆𝗂𝗇", url = "https://t.me/MrX369Official")
+                InlineKeyboardButton("𝖯𝖺𝗒 𝖳𝗈 𝖠𝖽𝗆𝗂𝗇", url = "https://t.me/mrx369official_support_bot")
             ],[
                 InlineKeyboardButton("ʙᴀᴄᴋ", callback_data = "premium")
 	    ]])            
