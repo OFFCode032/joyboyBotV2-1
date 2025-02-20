@@ -6,7 +6,8 @@ class script(object):
 </b>"""
 
     ABOUT_TXT = """<b>╭───────────⍟
-├◈ ᴍy ɴᴀᴍᴇ : Rᴇɴᴀᴍᴇʀ 4GB
+├◈ ᴍy ɴᴀᴍᴇ : <a href=https://t.me/Dev369devil_4GB_File_Renamer_Bot>Rᴇɴᴀᴍᴇʀ 4GB</a>
+├◈ Sᴇᴄᴏɴᴅ Bᴏᴛ : <a href=https://t.me/Mrx369official_4GB_Renamer_Bot>𝟺GB Rᴇɴᴀᴍᴇʀ Bᴏᴛ</a> 
 ├◈ Owner : <a href=https://t.me/mrx369official_support_bot>Mrx369official</a>
 ├◈ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/sonali_sahaibot>Sᴏɴᴀʟɪ</a>  
 ├◈ Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
@@ -118,5 +119,5 @@ EX- <code>/set_caption {filename}
 
 /delete_caption - Remove your custom caption from my database."""
     
-    SOURCE_TXT = """Source Code Is Private
-if You Need Repo Then DM me @sonali_sahaibot"""
+    SOURCE_TXT = """🔻𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗱𝗲 𝗜𝘀 𝗣𝗿𝗶𝘃𝗮𝘁𝗲 😎
+🔺ɪғ Yᴏᴜ Nᴇᴇᴅ Rᴇᴘᴏ Tʜᴇɴ DM ᴍᴇ <a href=https://t.me/sonali_sahaibot>Sᴜᴘᴘᴏʀᴛᴇʀ✨</a>"""
