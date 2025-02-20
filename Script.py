@@ -120,4 +120,4 @@ EX- <code>/set_caption {filename}
 /delete_caption - Remove your custom caption from my database."""
     
     SOURCE_TXT = """🔻𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗱𝗲 𝗜𝘀 𝗣𝗿𝗶𝘃𝗮𝘁𝗲 😎
-🔺ɪғ Yᴏᴜ Nᴇᴇᴅ Rᴇᴘᴏ Tʜᴇɴ DM ᴍᴇ <a href=https://t.me/sonali_sahaibot>Sᴜᴘᴘᴏʀᴛᴇʀ✨</a>"""
+<b>🔺ɪғ Yᴏᴜ Nᴇᴇᴅ Rᴇᴘᴏ Tʜᴇɴ DM ᴍᴇ <a href=https://t.me/sonali_sahaibot>Sᴜᴘᴘᴏʀᴛᴇʀ✨</a></b>"""
