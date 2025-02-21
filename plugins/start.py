@@ -88,7 +88,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=script.START_TXT.format(query.from_user.mention),
             disable_web_page_preview=True,
             reply_markup = InlineKeyboardMarkup([[
-                InlineKeyboardButton('🦋 Uᴩᴅᴀᴛᴇꜱ 🦋', url='https://t.me/+-66Rn1OysMYyYTI1'),
+                InlineKeyboardButton('🦋 Uᴩᴅᴀᴛᴇꜱ 🦋', url='https://t.me/Content_Updates_369'),
                 InlineKeyboardButton('🔺 Sᴜᴩᴩᴏʀᴛ 🔺', url='https://t.me/+XFTfRRjtdgswOTM1')
                 ],[
                 InlineKeyboardButton('◉⁠ Hᴇʟᴘ ◉', callback_data='help'),
