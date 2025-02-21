@@ -70,7 +70,7 @@ async def start(client,message):
 	    await message.reply_photo(photo ="https://graph.org/file/955538487647c67dce193.jpg",
 		    caption =script.START_TXT.format(message.from_user.mention), 
 	reply_markup=InlineKeyboardMarkup(
-	 [[ InlineKeyboardButton("🦋 Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ 🦋" ,url="https://t.me/+-66Rn1OysMYyYTI1"), InlineKeyboardButton("🔺 Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ 🔺", url="https://t.me/+XFTfRRjtdgswOTM1")], 
+	 [[ InlineKeyboardButton("🦋 Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ 🦋" ,url="https://t.me/Content_Updates_369"), InlineKeyboardButton("🔺 Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ 🔺", url="https://t.me/+XFTfRRjtdgswOTM1")], 
 	[InlineKeyboardButton("◉⁠ Hᴇʟᴘ ◉", callback_data="help"), InlineKeyboardButton("◉⁠ Aʙᴏᴜᴛ ◉", callback_data="about") ],
 	 [InlineKeyboardButton("♨️ 𝗨𝗽𝗴𝗿𝗮𝗱𝗲 𝗧𝗼 𝗣𝗿𝗲𝗺𝗶𝘂𝗺 ♨️", callback_data="premium") ]]))
 	    return
